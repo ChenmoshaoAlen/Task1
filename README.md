@@ -1,1 +1,3 @@
-# Task1_ZengXilang
+# Task1
+
+//PA0配置为上拉输入，用杜邦线对GND插拔可以模拟按键按下
